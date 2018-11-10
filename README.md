@@ -1,4 +1,7 @@
 # nasa-entrance-code
-/*Password is kangourou*/
 
-date : sam. 10 novembre 14:35
+Ce projet simple permet aux utilisateur ayant reçu un code de leur manager, d'afficher les codes d'entrée de la nasa.
+Tout le code a été fait sur un seul fichier.
+
+/*Password : kangourou*/
+
